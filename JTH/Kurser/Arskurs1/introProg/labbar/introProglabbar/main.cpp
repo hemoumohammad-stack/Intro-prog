@@ -7,7 +7,6 @@
 #include <thread>   // innehåller sleep_for
 #include <chrono>   // innehåller milliseconds
 
-
 using namespace std;
 
 void ingangtillkap02();
@@ -15,8 +14,8 @@ void ingangtillvariabler();
 void ingangtillfunkinochut ();
 void ingangtillifsatser();
 void state();
-
-
+void ingangtillkap12();
+void ingangtillkap13();
 
 
 
@@ -31,13 +30,12 @@ void state();
 int main(){
     cout <<"introprogprammet körs" << endl;
 
-    ingangtillifsatser();
+    //ingangtillifsatser();
    // ingangtillfunkinochut();
-   // ingangtillkap02 ();
+   //ingangtillkap02 ();
     // ingangtillvariabler();
-
-    state();
-
-
+    //state();
+    //ingangtillkap12();
+    ingangtillkap13();
     return 0;
 }
