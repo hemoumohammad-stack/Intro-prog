@@ -16,6 +16,7 @@ void ingangtillifsatser();
 void state();
 void ingangtillkap12();
 void ingangtillkap13();
+void ingangtillkap14();
 
 
 
@@ -36,6 +37,8 @@ int main(){
     // ingangtillvariabler();
     //state();
     //ingangtillkap12();
-    ingangtillkap13();
+   // ingangtillkap13();
+    ingangtillkap14();
+
     return 0;
 }
