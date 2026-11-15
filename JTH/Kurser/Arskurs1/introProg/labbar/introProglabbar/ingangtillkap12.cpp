@@ -507,8 +507,8 @@ void ingangtillkap12 () {
     //ritaMedText();
     //skrivUtFibonacci(20);
     //jamforFleraKvadratrotsberakningar();
-   // utforEnSpelomgang();
-    // provaMinaSlumptal();
+    //utforEnSpelomgang();
+    //provaMinaSlumptal();
    // jamforFleraSummaberakningar();
     // kylskapMedWhileVillkor();
     // kylskapMedWhileTrue();

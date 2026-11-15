@@ -36,8 +36,8 @@ int main(){
    //ingangtillkap02 ();
     // ingangtillvariabler();
     //state();
-    //ingangtillkap12();
-   // ingangtillkap13();
+   // ingangtillkap12();
+   //ingangtillkap13();
     ingangtillkap14();
 
     return 0;
